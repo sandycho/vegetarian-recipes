@@ -1,17 +1,17 @@
 # vegetarian-recipes
 
-I avoid as much as I can and I have found some replacements:
+I avoid as much as I can some ingredients from my diet, and I have found some replacements:
 - flour -> corn flour
-- pasta -> cabbage & noodles (as they are easier to diggest)
-- rice -> coliflower rice
+- pasta -> cabbage & noodles (as they are easier to diggest) & courgette noodles
+- rice -> coliflower rice & quinoa
 - potato -> cabbage
 - cow milk -> oat & nuts milk
 
 ## MISCELLANEOUS
 
-### Peanut butter noodles 🥜
+### Peanut butter noodles 🌿🥜
 
-- 6 oz. of your favorite Asian noodles like soba, rice noodles, or even ramen noodles without the flavor packet
+- 6 oz. noodles or cabbage 
 - 2 tbsp. pure sesame oil
 - 1 1/2 tbsp. peanut butter
 - 2 tbsp. honey
@@ -45,29 +45,34 @@ I avoid as much as I can and I have found some replacements:
 - ½ tsp chopped parsley
 - boiled rice, to serve
 
-#### Instructions
+##### Instructions
 1. Melt the butter and oil in a large pan. Add the **onions**, **mushrooms**, **garlic purée**, **spices** and **wine** and cook for 10 minutes.
 2. Stir in the **tomato purée**, **stock** and **cream**. Bring to the boil and then reduce the heat to a simmer. Add the parsley.
 3. If the sauce is too thin, simmer the stroganoff until the volume of liquid has reduced to the desired consistency.
 4. Serve with boiled rice.
 
 <!-- TODO Philipino thing -->
+<!-- TODO Ratatouille -->
+<!-- TODO Vichyssoise -->
+<!-- TODO Quinoa & veggies -->
+<!-- TODO Leaf tacos -->
+<!-- French omelette -->
 
 ## SOUPS 🥣
 
 ### Carrot & Butternut Squash soup 🌿🥕
-- 1 part carrots diced
-- 1 part butternut squash diced
-- 1 onion
+- 1 part carrots, diced
+- 1 part butternut squash, diced
+- 1 onion, sliced
 - oil
-- 1 clove garlic
-- 1/2 thumb ginger 
+- 1 clove garlic, minced
+- 1/2 thumb ginger, minced
 - salt
 - curry power
-- veggie stock
+- 1 veggie stock
 - Optional: cashews or almonds
 
-#### Instructions
+##### Instructions
 1. Put the **oil** to heat up in a stock pot
 2. Add the **onion** and **garlic** and leave until the onion is soft and transparent (~5min)
 3. Add **carrot**, **butternut squash**, **ginger**, **veggie stock** and **water** until cover. Cook at medium power for 20min or until carrots and butternut squash are soft. Stir from time to time.
@@ -77,16 +82,16 @@ I avoid as much as I can and I have found some replacements:
 ***
 
 ### Courgette soup 🌿
-- 1 courgette
-- 200g  white cabbage
-- 1 onion
+- 1 courgette, roll-cut
+- 200g  white cabbage, sliced
+- 1 onion, sliced
 - oil
 - 1 clove garlic
 - salt
-- veggie stock
+- 1 veggie stock
 - Optional: leek
 
-#### Instructions
+##### Instructions
 1. Put the **oil** to heat up in a stock pot
 2. Add the **onion** and **garlic** and leave until the onion is soft and transparent (~5min)
 3. Add **courgette**, **cabbage**, **veggie stock** and **water** until cover. Cook at medium power for 20min or until courgette and cabbage are soft. Stir from time to time.
