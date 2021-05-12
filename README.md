@@ -51,6 +51,8 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 3. If the sauce is too thin, simmer the stroganoff until the volume of liquid has reduced to the desired consistency.
 4. Serve with boiled rice.
 
+***
+
 ### Chard/Spinash Paneer Saag
 
 - 2 tbsp sunflower oil
