@@ -51,6 +51,31 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 3. If the sauce is too thin, simmer the stroganoff until the volume of liquid has reduced to the desired consistency.
 4. Serve with boiled rice.
 
+### Chard/Spinash Paneer Saag
+
+- 2 tbsp sunflower oil
+- 1 onion thinly sliced
+- 1 pinch salt
+- 1 tsp turmeric
+- 1 tsp chilli powder
+- 2 cloves garlic minced
+- 1 inch ginger minced
+- 250 grams paneer cubed
+- 4 cups rainbow chard/spinach cut into ribbons
+- 1 tsp garam masala
+- Optional Garnish: 2 wedges lemon
+
+##### Instructions
+1. Heat 1 tablespoon of sunflower oil in a frying pan and add the onions and salt.
+2. Fry the onions on a moderate heat for 5-8 minutes, stirring regularly.
+3. Once the onions are beginning to soften add in the turmeric, chilli powder, garlic and ginger: gently heat the spices along with the softened onions.
+4. In a separate pan, heat the remaining sunflower oil before adding the paneer cubes.
+5. Turn the paneer cubes over in the pan as and when their edges begin to brown and go crispy (roughly 5-8 minutes).
+6. Once the paneer is cooked, add to the onions.
+7. Next add the chard to the pan along with the garam masala and a splash of water.
+8. Cover with a lid and let the chard wilt (roughly 5 minutes).
+9. (Optional) Serve with the wedges of lemon.
+
 <!-- TODO Philipino thing -->
 <!-- TODO Ratatouille -->
 <!-- TODO Vichyssoise -->
