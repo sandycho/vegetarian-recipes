@@ -78,8 +78,24 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 8. Cover with a lid and let the chard wilt (roughly 5 minutes).
 9. (Optional) Serve with the wedges of lemon.
 
+<!--
+### Ratatouille/Pisto
+- 2 large aubergines, medium diced
+- 4 small courgettes, medium diced
+- 2 red or yellow peppers, medium diced
+- 4 large ripe tomatoes, medium diced
+- 5 tbsp olive oil
+- bunch basil
+- 1 medium onion, peeled and thinly sliced
+- 3 garlic cloves, peeled and crushed
+- 1 tbsp red wine vinegar
+
+**Instructions**
+1. Set a sauté pan over medium heat and when hot, pour in 2 tbsp olive oil. Brown the aubergines for 5 mins on each side until the pieces are soft. Set them aside.
+2. Fry the courgettes and peppersin another tbsp oil for 5 mins, until golden/soft on both sides.
+-->
+
 <!-- TODO Philipino thing -->
-<!-- TODO Ratatouille -->
 <!-- TODO Vichyssoise -->
 <!-- TODO Quinoa & veggies -->
 <!-- TODO Leaf tacos -->
