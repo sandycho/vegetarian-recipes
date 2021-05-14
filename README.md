@@ -21,7 +21,7 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 - ½ tsp. grated fresh ginger root
 - Optional Garnish: 3 sliced green onions and 1 1/2 tsp. sesame seeds
 
-##### Instructions
+**Instructions**
 1. Cook and drain the noodles according to the package directions.
 2. In a medium bowl, add the sesame oil, peanut butter, honey, soy sauce, rice vinegar, garlic, and ginger. Whisk until well combined. The peanut butter should completely break down to create a smooth sauce.
 3. Pour the sauce over the hot noodles. Toss to coat.
@@ -45,7 +45,7 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 - ½ tsp chopped parsley
 - boiled rice, to serve
 
-##### Instructions
+**Instructions**
 1. Melt the butter and oil in a large pan. Add the **onions**, **mushrooms**, **garlic purée**, **spices** and **wine** and cook for 10 minutes.
 2. Stir in the **tomato purée**, **stock** and **cream**. Bring to the boil and then reduce the heat to a simmer. Add the parsley.
 3. If the sauce is too thin, simmer the stroganoff until the volume of liquid has reduced to the desired consistency.
@@ -67,7 +67,7 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 - 1 tsp garam masala
 - Optional Garnish: 2 wedges lemon
 
-##### Instructions
+**Instructions**
 1. Heat 1 tablespoon of sunflower oil in a frying pan and add the onions and salt.
 2. Fry the onions on a moderate heat for 5-8 minutes, stirring regularly.
 3. Once the onions are beginning to soften add in the turmeric, chilli powder, garlic and ginger: gently heat the spices along with the softened onions.
@@ -99,7 +99,7 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 - 1 veggie stock
 - Optional: cashews or almonds
 
-##### Instructions
+**Instructions**
 1. Put the **oil** to heat up in a stock pot
 2. Add the **onion** and **garlic** and leave until the onion is soft and transparent (~5min)
 3. Add **carrot**, **butternut squash**, **ginger**, **veggie stock** and **water** until cover. Cook at medium power for 20min or until carrots and butternut squash are soft. Stir from time to time.
@@ -118,7 +118,7 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 - 1 veggie stock
 - Optional: leek
 
-##### Instructions
+**Instructions**
 1. Put the **oil** to heat up in a stock pot
 2. Add the **onion** and **garlic** and leave until the onion is soft and transparent (~5min)
 3. Add **courgette**, **cabbage**, **veggie stock** and **water** until cover. Cook at medium power for 20min or until courgette and cabbage are soft. Stir from time to time.
