@@ -78,6 +78,8 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 8. Cover with a lid and let the chard wilt (roughly 5 minutes).
 9. (Optional) Serve with the wedges of lemon.
 
+***
+
 ### Ratatouille/Pisto
 - 2 large aubergines, medium diced
 - 4 small courgettes, medium diced
