@@ -53,7 +53,7 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 
 ***
 
-### Chard/Spinash Paneer Saag
+### Chard/Spinash Paneer Saag 🥣🥬
 
 - 2 tbsp sunflower oil
 - 1 onion thinly sliced
@@ -80,7 +80,7 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 
 ***
 
-### Ratatouille/Pisto
+### Ratatouille/Pisto 🥣 🍆 🍅
 - 2 large aubergines, medium diced
 - 4 small courgettes, medium diced
 - 2 red or yellow peppers, medium diced
