@@ -96,6 +96,24 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 2. Add the courgettes and peppers until golden/soft.
 3. Reduce the heat to low. Add the tomatoes and simmer gently until the juices have evaporated. Stir in the vinegar and basil/parsley. Season with salt.
 
+***
+
+### Tortilla de patata / Spanish omelette 🥣 🍆 🍅
+- 1 medium onion, peeled and thinly sliced
+- 3 medium potatos, peeled and 1/3 inch sliced
+- 4 eggs or 3 eggs and 2.5cl milk
+- sunflower oil
+- salt and pepper
+- pan with lid
+
+**Instructions**
+
+1. Cut the potatos in even pieces so it gets all done at the same time.![WhatsApp Image 2021-07-14 at 10 41 20](https://user-images.githubusercontent.com/8940769/125601930-79eda72d-6870-4074-aeb7-bd790e460790.jpeg)
+2. Fried the potatos and the sliced onion all together in the generous amount of oil. ![WhatsApp Image 2021-07-14 at 10 41 20 (1)](https://user-images.githubusercontent.com/8940769/125602248-6e0050f1-95d6-403e-9754-528ab51e92c0.jpeg)
+3. Drain the oil. Mix the eggs, salt, pepper, milk and the fried potatos/onion.![WhatsApp Image 2021-07-14 at 10 41 21](https://user-images.githubusercontent.com/8940769/125602487-8c6aef25-b736-43c6-9a22-eadd39f1dd84.jpeg)
+4. Get the mix back to a pan, put the lid on. Fry for 3 or 4 minutes and medium heat or till the top is firm enough to be turn over. Fry the other side for 3 or 4 minutes.![WhatsApp Image 2021-07-14 at 10 41 22 (1)](https://user-images.githubusercontent.com/8940769/125603045-d304af09-5fd8-4659-be6e-76bbf61bd121.jpeg)
+5 Tada!![WhatsApp Image 2021-07-14 at 10 41 23](https://user-images.githubusercontent.com/8940769/125603080-02c333b5-516d-4afa-b39a-1424b6a83a72.jpeg)
+ 
 <!-- TODO Philipino thing -->
 <!-- TODO Vichyssoise -->
 <!-- TODO Quinoa & veggies -->
