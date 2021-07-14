@@ -98,7 +98,7 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 
 ***
 
-### Tortilla de patata / Spanish omelette 🥣 🍆 🍅
+### Tortilla de patata / Spanish omelette 🥔 🇪🇸
 - 1 medium onion, peeled and thinly sliced
 - 3 medium potatos, peeled and 1/3 inch sliced
 - 4 eggs or 3 eggs and 2.5cl milk
@@ -108,12 +108,37 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 
 **Instructions**
 
-1. Cut the potatos in even pieces so it gets all done at the same time.![WhatsApp Image 2021-07-14 at 10 41 20](https://user-images.githubusercontent.com/8940769/125601930-79eda72d-6870-4074-aeb7-bd790e460790.jpeg)
-2. Fried the potatos and the sliced onion all together in the generous amount of oil. ![WhatsApp Image 2021-07-14 at 10 41 20 (1)](https://user-images.githubusercontent.com/8940769/125602248-6e0050f1-95d6-403e-9754-528ab51e92c0.jpeg)
+1. Cut the **potatos in even pieces** so it gets all done at the same time.![WhatsApp Image 2021-07-14 at 10 41 20](https://user-images.githubusercontent.com/8940769/125601930-79eda72d-6870-4074-aeb7-bd790e460790.jpeg)
+2. **Fried the potatos and the sliced onion** all together in the generous amount of oil. ![WhatsApp Image 2021-07-14 at 10 41 20 (1)](https://user-images.githubusercontent.com/8940769/125602248-6e0050f1-95d6-403e-9754-528ab51e92c0.jpeg)
 3. Drain the oil. Mix the eggs, salt, pepper, milk and the fried potatos/onion.![WhatsApp Image 2021-07-14 at 10 41 21](https://user-images.githubusercontent.com/8940769/125602487-8c6aef25-b736-43c6-9a22-eadd39f1dd84.jpeg)
 4. Get the mix back to a pan, put the lid on. Fry for 3 or 4 minutes and medium heat or till the top is firm enough to be turn over. Fry the other side for 3 or 4 minutes.![WhatsApp Image 2021-07-14 at 10 41 22 (1)](https://user-images.githubusercontent.com/8940769/125603045-d304af09-5fd8-4659-be6e-76bbf61bd121.jpeg)
 5. Tada!![WhatsApp Image 2021-07-14 at 10 41 23](https://user-images.githubusercontent.com/8940769/125603080-02c333b5-516d-4afa-b39a-1424b6a83a72.jpeg)
- 
+
+***
+
+### Courgetti bolognese 🟢 🍝
+[Inspired by this YouTube video](https://www.youtube.com/watch?v=jyz6cG1ipjE)
+- courgettes, spiralise the courgettes to make courgetti
+- 1 onion
+- 4 garlic cloves
+- 2 chopped tomatoes cans
+- tomato paste
+- paprika
+- mixed herbs
+- 80g quinoa
+- 300g mushrooms
+- veggie mince (optional)
+- 700ml water
+- veggie stock
+- salt and pepper
+- rapeseed/olive oil
+
+**Instructions**
+1. Put the **oil** to heat up in a (shallow) stock pot
+2. Add the **onion** and **garlic** and leave until the onion is soft and transparent (~5min)
+3. Add the **mushrooms, quinoa, veggie mince, chopped tomatoes, veggie stock, tomato paste, mixed herbs, paprika, water, salt and pepper**. Simmer for 30 min.
+4. Heat up oil and add the **courgetti**. Cook until slightly softened 2-3min.
+
 <!-- TODO Philipino thing -->
 <!-- TODO Vichyssoise -->
 <!-- TODO Quinoa & veggies -->
