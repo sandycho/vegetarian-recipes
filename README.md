@@ -118,6 +118,7 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 
 ### Courgetti bolognese 🟢 🍝
 [Inspired by this YouTube video](https://www.youtube.com/watch?v=jyz6cG1ipjE)
+
 - courgettes, spiralise the courgettes to make courgetti
 - 1 onion
 - 4 garlic cloves
@@ -138,6 +139,41 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 2. Add the **onion** and **garlic** and leave until the onion is soft and transparent (~5min)
 3. Add the **mushrooms, quinoa, veggie mince, chopped tomatoes, veggie stock, tomato paste, mixed herbs, paprika, water, salt and pepper**. Simmer for 30 min.
 4. Heat up oil and add the **courgetti**. Cook until slightly softened 2-3min.
+
+***
+
+### Vegan Quinoasotto 🍄
+[Inspired in this recipe](https://www.nicolaspujol.com/vegan-quinoasotto/)
+
+- courgettes, spiralise the courgettes to make courgetti
+- 80g quinoa
+- 1 onion
+- 4 garlic cloves
+- 200g mushrooms
+- 1 tbsp tomato paste
+- can of coconut milk
+- salt and pepper
+- rapeseed/sesame oil
+- cumin
+- fresh basil chopped not to small
+
+**Instructions**
+
+**Cook the quinoa**
+1. Put the quinoa in a sauce pan
+2. Roast the quinoa for ~5min stiring frequenly
+3. Add sesame oil and keep stiring
+4. Add enough water and boil till quinoa is ready. Add more water if necessary.
+
+**Prepare the saucy mushrooms**
+1. Put the **oil** to heat up in a (shallow) stock pot
+2. Add the **onion** and **garlic** and leave until the onion is soft and transparent (~5min)
+3. Add the **mushrooms** and simmer until mushrooms are ready.
+4. Add the **quinoa, tomato paste, coconut milk, cumin, salt and pepper**. Simmer until creamy texture.
+
+Enjoy!
+![WhatsApp Image 2022-04-01 at 8 37 32 AM](https://user-images.githubusercontent.com/8940769/161217865-259d0573-eb9b-4980-9160-3e244e399dee.jpeg)
+
 
 <!-- TODO Philipino thing -->
 <!-- TODO Vichyssoise -->
