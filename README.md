@@ -5,7 +5,7 @@ I avoid as much as I can some ingredients from my diet, and I have found some re
 - pasta -> cabbage & noodles (as they are easier to diggest) & courgette noodles
 - rice -> coliflower rice & quinoa
 - potato -> cabbage
-- cow milk -> oat & nuts milk
+- cow milk -> coconut, oat & nuts milk
 
 ## MISCELLANEOUS
 
